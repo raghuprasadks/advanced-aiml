@@ -1,0 +1,11 @@
+
+
+Module 3 - Question 5
+https://vtupulse.com/machine-learning/perceptron-training-rule-for-linear-classification/
+https://vtupulse.com/machine-learning/and-gate-perceptron-training-rule/
+https://www.youtube.com/watch?v=du5fyS44DR8&t=14s
+https://www.youtube.com/watch?v=zmIzNBMsQYQ
+https://www.youtube.com/watch?v=TCvyk9mztsU&t=400s
+
+Instance based learning
+https://www.youtube.com/watch?v=X-w1V63puww
