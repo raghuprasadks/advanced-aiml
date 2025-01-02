@@ -1,3 +1,6 @@
+https://vtupulse.com/machine-learning/perceptron-training-rule-for-linear-classification/
+https://vtupulse.com/machine-learning/and-gate-perceptron-training-rule/
+
 Perceptron
 
 https://www.youtube.com/watch?v=du5fyS44DR8
@@ -12,6 +15,26 @@ https://www.youtube.com/watch?v=uxmNDNb0u9A&t=3s
 xor
 https://www.youtube.com/watch?v=dM_8Y41EgsY&t=262s
 
+Gradient descent 
+https://www.youtube.com/watch?v=ktGm0WCoQOg&t=110s
 
-https://vtupulse.com/machine-learning/perceptron-training-rule-for-linear-classification/
-https://vtupulse.com/machine-learning/and-gate-perceptron-training-rule/
+https://vtupulse.com/machine-learning/gradient-descent-and-delta-rule/
+
+Gradient descent algorithm
+
+https://www.youtube.com/watch?v=MUoEv1Hv0KM
+
+https://www.youtube.com/watch?v=ibKP0nIT7YU
+
+
+Stochastic gradient descent
+
+
+Back propagation
+
+https://www.youtube.com/watch?v=zAPHIAGBjwE&t=105s
+
+https://vtupulse.com/machine-learning/backpropagation-algorithm-machine-learning/#google_vignette
+
+https://www.youtube.com/watch?v=5hB4_8o34GU
+
