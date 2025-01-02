@@ -58,7 +58,13 @@ And Gate
 Or Gate
 XOR Gate
 
-Perceptron Training Rule
+vtupulse
+7. Perceptron Training Rule
+and or xor
+8. Gradient descent
+9. Back propagation
+
+
 
 
 
