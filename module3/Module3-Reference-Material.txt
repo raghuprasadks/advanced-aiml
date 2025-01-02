@@ -38,3 +38,6 @@ https://vtupulse.com/machine-learning/backpropagation-algorithm-machine-learning
 
 https://www.youtube.com/watch?v=5hB4_8o34GU
 
+Back propagation example
+https://www.youtube.com/watch?v=tUoUdOdTkRw&t=80s
+
