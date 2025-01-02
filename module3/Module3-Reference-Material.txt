@@ -1,0 +1,17 @@
+Perceptron
+
+https://www.youtube.com/watch?v=du5fyS44DR8
+
+and gate
+
+https://www.youtube.com/watch?v=zmIzNBMsQYQ
+
+or gate
+https://www.youtube.com/watch?v=uxmNDNb0u9A&t=3s
+
+xor
+https://www.youtube.com/watch?v=dM_8Y41EgsY&t=262s
+
+
+https://vtupulse.com/machine-learning/perceptron-training-rule-for-linear-classification/
+https://vtupulse.com/machine-learning/and-gate-perceptron-training-rule/
