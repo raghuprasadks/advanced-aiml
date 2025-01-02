@@ -41,3 +41,26 @@ https://www.youtube.com/watch?v=5hB4_8o34GU
 Back propagation example
 https://www.youtube.com/watch?v=tUoUdOdTkRw&t=80s
 
+
+
+Module 3
+Questions
+
+Text Book 3 - Chapter 6
+1. Describe Artificial neural network and how it works
+2. What is Biological Neural network and explain with a diagram
+3. Basics of Artificial Neural Networks 
+4. Activation Functions
+Bipolar,Unipolar,etc..
+5. McCulloch-Pitts Neuron Model
+6.6.1
+And Gate
+Or Gate
+XOR Gate
+
+Perceptron Training Rule
+
+
+
+
+
