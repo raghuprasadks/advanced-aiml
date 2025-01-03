@@ -1,0 +1,5 @@
+Algomerative hierarchical clustering
+https://www.youtube.com/watch?v=YH0r47m0kFM
+
+clusters using single link technique
+https://www.youtube.com/watch?v=oNYtYm0tFso

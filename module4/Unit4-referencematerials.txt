@@ -1,3 +1,8 @@
+Association Rules
+
+https://www.youtube.com/watch?v=43CMKRHdH30
+
+
 Content based filtering
 
 https://www.youtube.com/watch?v=TsnfTsoIZvg
@@ -5,3 +10,13 @@ https://www.youtube.com/watch?v=TsnfTsoIZvg
 Collaborative filtering
 
 https://www.youtube.com/watch?v=W30s-EoP3d0
+
+https://www.youtube.com/watch?v=pGt4XMtyWm0&t=34s
+
+TF-IDF
+
+https://www.youtube.com/watch?v=OlV1VbIgzoI
+
+Naive Bayer 
+
+https://www.youtube.com/watch?v=fgbG7fHQwJk

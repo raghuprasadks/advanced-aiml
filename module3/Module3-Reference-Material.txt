@@ -41,10 +41,14 @@ https://www.youtube.com/watch?v=5hB4_8o34GU
 Back propagation example
 https://www.youtube.com/watch?v=tUoUdOdTkRw&t=80s
 
+Genetic Algorithms
+
+https://www.youtube.com/watch?v=WueuYdDqUt0&t=0s
+https://www.youtube.com/watch?v=udN28wPqaZI
 
 
 Module 3
-Questions
+Probable Questions
 
 Text Book 3 - Chapter 6
 1. Describe Artificial neural network and how it works
@@ -64,7 +68,7 @@ and or xor
 8. Gradient descent
 9. Back propagation
 
-
+10.What is genetic algorithm. Example using a flow chart.
 
 
 
